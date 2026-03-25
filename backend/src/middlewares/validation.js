@@ -1,0 +1,1 @@
+export { validateRegister, validateLogin } from '../validators/authValidator.js';
